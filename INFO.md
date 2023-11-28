@@ -1,1 +1,2 @@
-git is awesome!
+add new content
+add newer content
